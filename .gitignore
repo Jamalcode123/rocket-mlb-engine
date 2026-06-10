@@ -1,0 +1,20 @@
+# Cached API responses
+.rocket_cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment / secrets (in case you ever add any)
+.env
+*.key
+
+# OS files
+.DS_Store
+Thumbs.db
